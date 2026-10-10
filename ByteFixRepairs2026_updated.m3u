@@ -1,0 +1,23 @@
+#EXTM3U
+https://tinyurl.com/ByteFixRepairs2026
+
+# ==========================================
+# STAR TV - alternatif yayın adresleri
+# ==========================================
+
+#EXTINF:-1 tvg-id="StarTV.tr@SD" group-title="STAR TV",Star TV - 720p (resmi kaynak)
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
+
+#EXTINF:-1 tvg-id="StarTV.tr@SD" group-title="STAR TV",Star TV - otomatik kalite (alternatif)
+https://dogus-live.daioncdn.net/startv/startv.m3u8?hash=28f0fb01d375a9531c6399408e4949f2
+
+# ==========================================
+# KANAL D - alternatif yayın adresleri
+# ==========================================
+
+#EXTINF:-1 tvg-id="KanalD.tr@SD" group-title="KANAL D",Kanal D - otomatik kalite (resmi kaynak)
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+
+#EXTINF:-1 tvg-id="KanalD.tr@SD" group-title="KANAL D",Kanal D - alternatif Duhnet yayın adresi
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+
